@@ -1,7 +1,6 @@
 h1 {
     font: bolder;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #433E3F;
 }
 h3 {
     background-color: #A6A670;
@@ -19,4 +18,43 @@ html {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    margin: 500px;
+    align-items: center;
+    padding: 10px;
+}
+
+.truebox {
+    display: flex;
+    flex: auto;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 500px;
+    align-items: center;
+    padding: 10px;
+}
+
+.truerbox {
+    display: flex;
+    flex: auto;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 500px;
+    align-items: center;
+    padding: 10px;
+}
+
+.truestbox {
+    display: flex;
+    flex: auto;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 500px;
+    align-items: center;
+    padding: 10px;
 }
